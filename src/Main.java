@@ -8,6 +8,9 @@ public class Main {
             System.out.println("Hallo ich winke die zu");
 
         }
+
+        System.out.println("Kennst du eigentlich Europa?");
+        System.out.println("Kannst du von jedem Kontinent 5 Länder nennen?");
     }
 
 }
